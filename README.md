@@ -1,1 +1,0 @@
-# Linux1-Meet-Gupta
