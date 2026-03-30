@@ -193,7 +193,7 @@ Contributions are welcome! Feel free to:
 
 ## Author
 
-Created as part of an Open Source Audit project by Divyam.
+Created as part of an Open Source Audit project by Meet Gupta.
 
 ---
 
